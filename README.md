@@ -3,7 +3,7 @@
 This is the code note of [*Automate_the_Boring_Stuff_with_Python*](https://automatetheboringstuff.com/#toc). You could access this book for free. 
 Thanks for the author Al Sweigart.
 
-The online book has the answers to the practice questions, but it has no answer to the Practice Projects, I will share my answer.
+The online book has the answers to the practice questions, but it has no answer to the Practice Projects and Chapter Projcets, I will share my answer.
 Welcome the pull reqeuest and issues.
 
 There are two major parts of each chapter. The Chapter Practice examples and the Practice Projects.
