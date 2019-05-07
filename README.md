@@ -10,7 +10,7 @@ There are two major parts of each chapter. The Chapter Practice examples and the
 Environment:`Python 3`
 
 > - [x] means I finished both chapter projects and the practice projects in this chapter.
- - [x] Chapter 1 – Python Basics
+- [x] Chapter 1 – Python Basics
 - [x] Chapter 2 – Flow Control
 - [x] Chapter 3 – Functions
 - [x] Chapter 4 – Lists
@@ -28,4 +28,4 @@ Environment:`Python 3`
 - [ ] Chapter 16 – Sending Email and Text Messages
 - [ ] Chapter 17 – Manipulating Images
 - [ ] Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
- - [x] 
+
